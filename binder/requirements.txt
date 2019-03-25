@@ -1,0 +1,11 @@
+tensorflow==2.0.0-alpha0
+tensorflow_datasets
+numpy
+scipy
+pandas
+seaborn
+scikit-learn
+cython
+sympy
+matplotlib
+yapf
