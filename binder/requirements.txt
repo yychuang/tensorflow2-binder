@@ -1,4 +1,5 @@
-tensorflow==2.0.0-rc1
+#tensorflow==2.0.0-rc1
+
 tensorflow_datasets
 numpy
 scipy
