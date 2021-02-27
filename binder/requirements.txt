@@ -1,6 +1,8 @@
 #tensorflow==2.0.0-rc1
 tensorflow==2.4.1
 tensorflow_datasets
+pydot
+graphviz
 numpy
 scipy
 pandas
@@ -13,5 +15,4 @@ matplotlib
 yapf
 torch
 torchvision
-pydot
-graphviz
+
