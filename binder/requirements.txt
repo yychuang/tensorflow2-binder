@@ -13,3 +13,5 @@ matplotlib
 yapf
 torch
 torchvision
+pydot
+graphviz
