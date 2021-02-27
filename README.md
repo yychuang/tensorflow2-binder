@@ -1,3 +1,6 @@
-# Tensorflow 2 binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/tensorflow2-binder/HEAD)
 
-For a [custom software env](https://doc.cocalc.com/software.html#custom-environments) on [CoCalc](https://cocalc.com).
+# Tensorflow 2 on binder
+
+For a tensoflow executing with binder
+
